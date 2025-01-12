@@ -1,5 +1,5 @@
 ## numerone's fortune
-Un fortune teller in uwp, specifico per xbox
+Un fortune teller in uwp, per xbox e surfrace
 
 ## Come ottenerlo
 
@@ -18,6 +18,11 @@ Per prima cosa registrate il vostro account di developer nell'apposita sezione i
 
 A breve nella sezione bassa centrale comparirà il numfortune, basta avviarla per poter giocare.
 
+
+## Come installarlo sul surface
+
+Il package è sia per arm64 che per amd64, è sufficiente registrare la chiave nel sistema, non nell'account utente, nella sezione persone attendibili per installare l'msixbundle ed ottenere l'app.
+Può essere usata per creare chioschi.
 
 ## Screenshots dell'app
 
