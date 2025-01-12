@@ -48,7 +48,7 @@ namespace numfortuneuwp
         {
             try
             {
-                httpResponse = await client.GetAsync("https://api.justyy.workers.dev/api/fortune");
+                httpResponse = await client.GetAsync("https://helloacm.com/api/fortune/");
             }
             catch (Exception ex)
             {
