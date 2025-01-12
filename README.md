@@ -3,5 +3,10 @@ Un fortune teller in uwp, specifico per xbox
 
 ## Come ottenerlo
 
+## The new fashion way (occorre un account da sviluppatore xbox)
 
-[![microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://www.microsoft.com/store/apps/9N8N15474TWZ)
+Aprite il devhome della vostra xbox one, nella sezione remote access configurate user e password, e poi apritela col browser.
+In Home, sezione My Apps and Games, selezionare ADD, ed indicare il package principale (msixbundle) della release scelta in deploy or install application.
+Le dipedenze sono gli appx.
+
+## The old fashion way
